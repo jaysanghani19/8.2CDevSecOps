@@ -38,7 +38,7 @@ pipeline {
                     emailext attachLog: true, 
                              subject: "Jenkins Pipeline: Security Scan Stage", 
                              body: "The 'Security Scan' stage has finished executing. Please review the attached log file for vulnerability details.", 
-                             to: "jaysanghani0gmail.com"
+                             to: "jaysanghani0@gmail.com"
                 }
             }
         }
