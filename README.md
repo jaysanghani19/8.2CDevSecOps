@@ -217,3 +217,5 @@ When the wizard is done, restart the application and run the exploits again to c
 
 
 making minor changes to see new pipeline
+
+testing email notification
